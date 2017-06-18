@@ -1,0 +1,4 @@
+ControlPort 9051
+# hashed password below is obtained via `tor --hash-password my_password`
+HashedControlPassword 16:D7BE939DD0BFFC8060715115D79CB09D183E77E55C7B6DD7CA13837DFF
+CookieAuthentication 1
